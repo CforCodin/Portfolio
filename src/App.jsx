@@ -4,7 +4,7 @@ import Home from "./components/Home/Home";
 import Navbar from "./components/Navbar/Navbar";
 import Projects from "./components/Projects/Projects";
 import Skills from "./components/Skills/Skills";
-import SocialMediaSidebar from "./components/SocialMediaSideBar/SocialMediaSideBar";
+import SocialMediaSidebar from "./components/SocialMediaSidebar/SocialMediaSidebar";
 
 
 
