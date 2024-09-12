@@ -1,4 +1,4 @@
-import React from 'react'
+https://www.linkedin.com/in/aarushi-khatri-1b162120b/import React from 'react'
 import avatarImg from '../../assets/7358602-removebg-preview.png'
 import TextChange from '../TextChange';
 
@@ -14,7 +14,7 @@ const Home = () => {
               </p>
               <button
   className='bg-[#465697] text-sm md:text-lg md:py-2 md:px-4 text-white px-3 py-2 mt-5 md:md-10 rounded-3xl hover:opacity-85 duration-300 hover:scale-105 font-semibold'
-  onClick={() => window.open('https://www.linkedin.com/in/your-profile/', '_blank')}>
+  onClick={() => window.open('https://www.linkedin.com/in/aarushi-khatri-1b162120b/', '_blank')}>
 
            Contact Me
            </button>
